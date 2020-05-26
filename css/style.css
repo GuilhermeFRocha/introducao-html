@@ -75,4 +75,17 @@ nav a:hover {
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+    text-align: center
+}
+
+footer {
+    text-align: center;
+    background: url("https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1920/https://home.unicruz.edu.br/wp-content/uploads/revslider/u-revo-slider/Slide1-BG.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px 0 0;
 }

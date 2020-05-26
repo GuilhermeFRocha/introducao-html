@@ -33,14 +33,12 @@ nav a:hover {
 }
 
 #barbearia {
-    padding-top: 50px;
     width: 100%;
 }
 
 .principal {
-    padding-top: 50px;
-    background: #CCCCCC;
-    padding: 30px;
+    background: #ffffff;
+    padding: 20px;
 }
 
 .titulo-principal {
@@ -51,6 +49,7 @@ nav a:hover {
 
 .centralizado {
     text-align: center;
+    font-weight: bold;
 }
 
 p {
@@ -71,7 +70,7 @@ em strong {
 }
 
 .beneficios {
-    padding-top: 50px;
+    padding-top: 0px;
     width: auto;
     height: 350px;
 }
@@ -98,11 +97,23 @@ em strong {
 
 #text-footer {
     font-size: 25px;
-    padding-top: 110px;
+    padding-top: 50px;
 }
 
 #div2-footer {
     float: right;
     width: 50%;
     height: 100%;
+}
+
+footer {
+    text-align: center;
+    background: url("https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1920/https://home.unicruz.edu.br/wp-content/uploads/revslider/u-revo-slider/Slide1-BG.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px 0 0;
 }
